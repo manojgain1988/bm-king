@@ -1,1 +1,1 @@
-# bm-king
+# BM-King
